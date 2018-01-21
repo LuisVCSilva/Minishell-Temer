@@ -1,6 +1,6 @@
 # Minishell-Temer
 
-Um trabalho de Sistemas operacionais, o objetivo era implementar um shell que permitisse a criação de funções customizadas pelo usuário.
+Um trabalho de Sistemas operacionais, o objetivo era implementar um shell que permitisse a criação de funções customizadas pelo usuário. Este shell também permite a sobrescrita de comandos do SO, neste caso, sobrescrevemos o comando "cd","clear","exit","help" e "ls". É necessário que seu SO tenha suporte a POSIX.
 
 COMO CRIAR NOVO COMANDO:
 
