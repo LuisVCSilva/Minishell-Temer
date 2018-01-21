@@ -1,0 +1,2 @@
+gcc MinishellTemer.c -lm -o MinishellTemer
+./MinishellTemer
